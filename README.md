@@ -155,9 +155,6 @@ O projeto contém dois arquivos `.jmx`:
 3. Faça suas alterações e commits
 4. Envie um Pull Request 🚀
 
----
 
-##  Licença
 
-Este projeto é distribuído sob a licença **MIT**.  
-Sinta-se livre para usar, modificar e distribuir conforme necessário.
+
