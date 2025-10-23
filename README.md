@@ -142,18 +142,19 @@ O projeto contém dois arquivos `.jmx`:
   </dependency>
 </dependencies>
 ```
+![Apresentando os dados no Banco H2 e o que foi inserido pelo JMeter](src/main/java/com/example/produtoTeste/images/imagem1.jpg)
+![Mostrando como o JMeter inseriu os dados e como ficou na tela](src/main/java/com/example/produtoTeste/images/imagem1.jpg)
+![Mostrndo que o JMeter enviou um body com 3 dados, 50 inserções, 2 vezes](src/main/java/com/example/produtoTeste/images/imagem1.jpg)
+---
+
+##  Autor
+
+**Diego Jardim de Oliveira**  
+email: diego.morfeu@gmail.com
+Github: https://github.com/DiegoMorpheus
 
 ---
 
-##  Contribuição
-
-1. Faça um fork do repositório  
-2. Crie uma nova branch:
-   ```bash
-   git checkout -b feature/minha-feature
-   ```
-3. Faça suas alterações e commits
-4. Envie um Pull Request 🚀
 
 
 
